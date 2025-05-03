@@ -1,7 +1,7 @@
 {
-  "name": "LARA-MD",
-  "description": "LARA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ ꜱᴀᴅᴇᴇꜱʜᴀ ᴄᴏᴅᴇʀ · · ·",
-  "logo": "https://i.ibb.co/YZFg7Pq/IMG-20241127-WA0058.jpg",
+  "name": "PRINCESS LUNA-MD",
+  "description": "LUNA-MD Whatsapp bot © ᴄʀᴇᴀᴛᴇᴅ ʙʏ HASHAN · · ·",
+  "logo": "https://raw.githubusercontent.com/Hashan000-1/IMAGE-TO-URL/refs/heads/main/LUNA%20MD.jpg",
   "keywords": ["bot"],
   "success_url": "/",
 
@@ -52,7 +52,7 @@
     "STATUS_REPLY_MSG": {
       "description": "Statues reply msg",
       "required": true,
-      "value": "*_`AUTO STATUS JUST NOW SEEN BY LARA MD`_*"
+      "value": "*_`AUTO STATUS JUST NOW SEEN BY LUNA MD`_*"
     },
     
     "AUTO_STATUS_REACT": {
